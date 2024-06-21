@@ -9,5 +9,5 @@ This repository created for my learning journey in blokchain technologies
 - Remix
 - More!
 
-## My Path For Projects
+## My Path In Projects
 1. The Blockchain Messenger

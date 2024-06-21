@@ -1,4 +1,4 @@
-# Blockchain Learning Path
+## Blockchain Learning Path
 This repository created for my learning journey in blokchain technologies
 
 # My Technology Usage

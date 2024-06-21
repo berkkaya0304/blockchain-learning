@@ -1,10 +1,13 @@
-## Blockchain Learning Path
+# Blockchain Learning Path
 This repository created for my learning journey in blokchain technologies
 
-# My Technology Usage
+## My Technology Usage
 - Solidity
 - Web3.JS
 - Truffle
 - MetaMask
 - Remix
 - More!
+
+## My Path For Projects
+1. The Blockchain Messenger
